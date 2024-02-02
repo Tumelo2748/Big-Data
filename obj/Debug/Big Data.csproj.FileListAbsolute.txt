@@ -1,0 +1,11 @@
+C:\Builds\C# Programs\220050062_Thinane_SemTest1\Big Data\obj\Debug\Big Data.csproj.AssemblyReference.cache
+C:\Builds\C# Programs\220050062_Thinane_SemTest1\Big Data\obj\Debug\Big Data.csproj.SuggestedBindingRedirects.cache
+C:\Builds\C# Programs\220050062_Thinane_SemTest1\Big Data\obj\Debug\Big_Data.Form.resources
+C:\Builds\C# Programs\220050062_Thinane_SemTest1\Big Data\obj\Debug\Big_Data.Properties.Resources.resources
+C:\Builds\C# Programs\220050062_Thinane_SemTest1\Big Data\obj\Debug\Big Data.csproj.GenerateResource.cache
+C:\Builds\C# Programs\220050062_Thinane_SemTest1\Big Data\obj\Debug\Big Data.csproj.CoreCompileInputs.cache
+C:\Builds\C# Programs\220050062_Thinane_SemTest1\Big Data\bin\Debug\Big Data.exe.config
+C:\Builds\C# Programs\220050062_Thinane_SemTest1\Big Data\bin\Debug\Big Data.exe
+C:\Builds\C# Programs\220050062_Thinane_SemTest1\Big Data\bin\Debug\Big Data.pdb
+C:\Builds\C# Programs\220050062_Thinane_SemTest1\Big Data\obj\Debug\Big Data.exe
+C:\Builds\C# Programs\220050062_Thinane_SemTest1\Big Data\obj\Debug\Big Data.pdb
